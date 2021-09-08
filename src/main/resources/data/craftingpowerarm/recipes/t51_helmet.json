@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "RHG",
+    "III"
+  ],
+  "key": {
+    "H": {
+      "item": "craftingpowerarm:t51_helm_hardcast"
+    },
+    "S": {
+      "item": "fallout_inspired_power_armor:steel"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "fallout_inspired_power_armor:t_5_1_helmet"
+  }
+}

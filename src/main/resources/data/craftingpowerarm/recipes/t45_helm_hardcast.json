@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "craftingpowerarm:t45_helm_softcast"
+  },
+  "result": "craftingpowerarm:t45_helm_hardcast",
+  "experience": 0,
+  "cookingtime": 600
+}

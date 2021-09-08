@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "craftingpowerarm:item/t51_legs_hardcast"
+  }
+}

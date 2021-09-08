@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "PP ",
+      "## "
+    ],
+    "key": {
+      "#": {
+        "item": "fallout_inspired_power_armor:armored_door_closed"
+      },
+      "P": [
+      {
+        "item": "minecraft:piston"
+      },
+      {
+      "item": "minecraft:sticky_piston"
+      }
+    ]
+    },
+    "result": {
+      "item": "fallout_inspired_power_armor:interior_doorclosed"
+    }
+}

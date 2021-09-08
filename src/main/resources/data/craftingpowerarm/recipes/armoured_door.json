@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "## ",
+      "## ",
+      "## "
+    ],
+    "key": {
+      "#": {
+        "item": "fallout_inspired_power_armor:steel"
+      }
+    },
+    "result": {
+      "item": "fallout_inspired_power_armor:armored_door_closed"
+    }
+}

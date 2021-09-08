@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "craftingpowerarm:t45_legs_softcast"
+  },
+  "result": "craftingpowerarm:t45_legs_hardcast",
+  "experience": 0,
+  "cookingtime": 600
+}

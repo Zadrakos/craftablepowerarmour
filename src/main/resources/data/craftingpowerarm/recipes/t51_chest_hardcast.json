@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "craftingpowerarm:t51_chest_softcast"
+  },
+  "result": "craftingpowerarm:t51_chest_hardcast",
+  "experience": 0,
+  "cookingtime": 600
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IRI",
+    "SHS"
+  ],
+  "key": {
+    "H": {
+      "item": "craftingpowerarm:t45_boot_hardcast"
+    },
+    "S": {
+      "item": "fallout_inspired_power_armor:steel"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "fallout_inspired_power_armor:t_45_boots"
+  }
+}

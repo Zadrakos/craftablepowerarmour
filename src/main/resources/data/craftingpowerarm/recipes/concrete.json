@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "#/#",
+      "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stone_bricks"
+        },
+        "/": {
+            "item": "minecraft:obsidian"
+        }
+    },
+    "result": {
+        "item": "fallout_inspired_power_armor:cement"
+    }
+}

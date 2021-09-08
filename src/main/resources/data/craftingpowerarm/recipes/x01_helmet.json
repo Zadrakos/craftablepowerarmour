@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "RHG",
+    "III"
+  ],
+  "key": {
+    "H": {
+      "item": "craftingpowerarm:x01_helm_hardcast"
+    },
+    "S": {
+      "item": "fallout_inspired_power_armor:composite"
+    },
+    "I": {
+      "item": "fallout_inspired_power_armor:steel"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "fallout_inspired_power_armor:xo_1_helmet"
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " ' ",
+      "'#'",
+      "'#'"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:sand"
+        },
+        {
+          "item": "minecraft:red_sand"
+        },
+        {
+          "item": "biomesoplenty:white_sand"
+        },
+        {
+          "item": "biomesoplenty:black_sand"
+        },
+        {
+          "item": "biomesoplenty:orange_sand"
+        },
+        {
+          "item": "minecraft:soul_sand"
+        }
+      ],
+      "'": {
+        "item": "minecraft:leather"
+      }
+    },
+    "result": {
+      "item": "fallout_inspired_power_armor:sandbag"
+    }
+}
